@@ -1,6 +1,6 @@
 # ToDolist
 It is a simple Todo List App Made on VueJS.
-
+View it on: https://sad-boyd-15d3f5.netlify.com/#/
 ## Project setup
 ```
 npm install
