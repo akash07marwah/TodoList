@@ -1,4 +1,5 @@
-# todolist
+# ToDolist
+It is a simple Todo List App Made on VueJS.
 
 ## Project setup
 ```
